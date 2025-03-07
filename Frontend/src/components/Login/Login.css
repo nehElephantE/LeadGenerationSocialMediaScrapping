@@ -1,0 +1,26 @@
+
+
+.login-heading{
+    font-family: 'Rakkas';
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 119.1%;
+    /* or 76px */
+
+
+}
+
+.login__input{
+    background: linear-gradient(122.89deg, rgba(255, 255, 255, 0.8) -26%, rgba(196, 196, 196, 0.7) 140.85%, rgba(0, 0, 0, 0.8) 140.85%);
+    opacity: 0.5;
+    backdrop-filter: blur(60px);
+
+}
+
+
+.login-text{
+    font-family: 'Iceland';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 39px;
+}

@@ -1,0 +1,11 @@
+.dm__profile{
+    background: #FFFFFF;
+    opacity: 0.5;
+}
+
+.profile__heading{
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    font-size: 40px;
+    opacity: 1;
+}

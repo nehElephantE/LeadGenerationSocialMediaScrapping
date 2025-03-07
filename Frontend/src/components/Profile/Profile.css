@@ -1,0 +1,22 @@
+.profile-name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.profile__container:hover{
+    background: linear-gradient(145.92deg, rgba(255, 140, 140, 0.4) 14.98%, rgba(0, 139, 255, 0.4) 129.33%);
+    transform: scale(1.02);
+
+}
+
+.profile__container:hover .profile-name{
+    font-weight: 500;
+
+
+}
+

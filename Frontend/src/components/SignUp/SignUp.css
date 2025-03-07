@@ -1,0 +1,36 @@
+.signup-page{
+    background: linear-gradient(180deg, #E0FBFC 0%, #B9E5FF 100%);
+    backdrop-filter: blur(40px);
+}
+
+.signup-heading{
+    font-family: 'Rakkas';
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 119.1%;
+    /* or 76px */
+}
+
+.signup-text{
+
+    font-family: 'Iceland';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 39px;
+}
+
+.signup__input{
+    background: linear-gradient(122.89deg, rgba(255, 255, 255, 0.8) -26%, rgba(196, 196, 196, 0.7) 140.85%, rgba(0, 0, 0, 0.8) 140.85%);
+    opacity: 0.5;
+    backdrop-filter: blur(60px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 7px;
+}
+
+.signup__box{
+    background: linear-gradient(145.92deg, rgba(255, 140, 140, 0.4) 14.98%, rgba(0, 139, 255, 0.4) 129.33%);
+    box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 2.5rem 0 0 2.5rem;
+    backdrop-filter: blur(42px);
+}

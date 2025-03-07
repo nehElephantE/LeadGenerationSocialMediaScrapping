@@ -1,0 +1,19 @@
+.banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.pixabay.com/photo/2015/10/29/14/38/web-1012467__340.jpg");
+    background-size: cover;
+}
+
+.heading__banner{
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 119.1%;
+
+}
+
+.description__banner{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}

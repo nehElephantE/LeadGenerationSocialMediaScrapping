@@ -1,0 +1,56 @@
+div.home__banner{
+    background-image: url("https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=");
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    position: relative;
+}
+
+.home__banner-text{
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 119.1%;
+    /* or 71px */
+
+    display: flex;
+    /*align-items: flex-end;*/
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home__banner-input {
+    background: linear-gradient(109.46deg, rgba(201, 201, 201, 0.8) 1.57%, rgba(196, 196, 196, 0.1) 100%);
+    backdrop-filter: blur(60px);
+    /*line-height: 3rem;*/
+    height: 25%;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.home__banner-input input{
+
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 3rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.search-icon{
+    position: relative;
+    top:20%;
+    z-index: 10;
+}
+

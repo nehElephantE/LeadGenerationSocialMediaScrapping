@@ -1,0 +1,33 @@
+.verification-page-heading {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 119.1%;
+    /* or 71px */
+
+}
+
+.verification-page-why {
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 119.1%;
+}
+
+.verification-page-ans {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.file-upload {
+    background: linear-gradient(109.46deg, rgba(201, 201, 201, 0.8) 1.57%, rgba(196, 196, 196, 0.1) 100%);
+    backdrop-filter: blur(60px);
+    border-radius: 7px;
+
+
+
+}

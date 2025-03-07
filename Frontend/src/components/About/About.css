@@ -1,0 +1,21 @@
+.about-text{
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.about-heading{
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.about__banner{
+    background: url("../Assets/banner.jpeg");
+    background-repeat: no-repeat;
+    /*max-width: 100%;*/
+    display: block;
+
+}

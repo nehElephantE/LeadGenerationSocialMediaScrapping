@@ -1,0 +1,15 @@
+.navbar__link{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #e69abd;
+}
+
+.navbar__link:hover{
+    color: #3D5A80;
+}
+
+header{
+    filter: drop-shadow(-4px 4px 4px rgba(0, 0, 0, 0.25));
+    position: relative;
+}

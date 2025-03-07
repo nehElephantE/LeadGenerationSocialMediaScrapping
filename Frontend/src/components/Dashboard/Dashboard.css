@@ -1,0 +1,33 @@
+.dashboard-heading__main{
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 119.1%;
+}
+
+.dashboard-heading__chart{
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 119.1%;
+}
+
+.toggle-button{
+    font-family: 'Montserrat';
+    padding: 5px 18px;
+    margin: 5px;
+    border-width: 2px;
+    border-radius: 7px;
+    background: #741188;
+    border-color: #741188;
+    color:white;
+    font-weight: 500;
+
+}
+
+
+.toggle-button:hover,
+.toggle-button:active {
+    background: #132B4B;
+    border-color: #132B4B;
+}

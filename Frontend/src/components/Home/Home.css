@@ -1,0 +1,29 @@
+.home__section{
+    background: linear-gradient(180deg, #E0FBFC 0%, #B9E5FF 100%);
+    backdrop-filter: blur(40px);
+}
+
+.subheading{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.chat__input{
+    background: linear-gradient(319.29deg, #E5CAD0 -68.84%, #5099D9 151.8%);
+    backdrop-filter: blur(60px);
+
+    border-radius: 7px;
+
+}
+
+.chat__input input{
+    font-family: 'Space Grotesk', sans-serif;
+    /*font-weight: 600;*/
+    font-size: 18px;
+}
+
+.chat__input-section{
+
+
+}

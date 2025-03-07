@@ -1,0 +1,23 @@
+.button {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color:white;
+    background: #3D5A80;
+    border-radius: 7px;
+    text-align: center;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.button:hover,
+.button:active {
+    background: #741188;
+    border-color: #741188;
+}
+
+.button:focus {
+    outline: none;
+}
