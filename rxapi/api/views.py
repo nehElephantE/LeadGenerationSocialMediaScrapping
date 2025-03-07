@@ -33,7 +33,7 @@ def getSentiments(dataList):
 # Create your views here.
 
 firebaseConfig = {
-  "apiKey": "AIzaSyBVGnfWCyKYocokgDPi_hGjVFoWKAU43Fw",
+  "apiKey": "API_KEY",
   "authDomain": "metadata-ee971.firebaseapp.com",
   "projectId": "metadata-ee971",
   "storageBucket": "metadata-ee971.appspot.com",
